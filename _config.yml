@@ -5,8 +5,8 @@
 
 # Site
 title: 小大鸟的世界
-subtitle: 星星记
-description: 感知生命的体验，看见更广阔的世界，看见更广阔的自己。
+subtitle: 星星见证
+description: 看见更广阔的世界，看见更广阔的自己。
 author: 李星星
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -223,7 +223,6 @@ social:
   #LinkLabel: Link
   email: mailto:huayanglxx@126.com
   GitHub: https://github.com/lucy201703
-  Wechat: yizi1321
 
 
 
@@ -297,7 +296,7 @@ sidebar:
 links_title: Links
 links:
   阳志平: http://www.yangzhiping.com/
-  阿杰: http://www.liujie2018.com/
+  静水流深: http://www.liujie2018.com/
   一亩田: http://blog.mashuangpsy.com/
   素生: http://z.arlmy.me/
   
