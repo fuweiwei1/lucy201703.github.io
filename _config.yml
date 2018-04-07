@@ -5,7 +5,7 @@
 
 # Site
 title: 星垂平野阔
-subtitle: 星星的日志
+subtitle: 
 description: Pain is invevitable, suffering is optional.
 author: 李星星
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -81,7 +81,7 @@ plugins:
 favicon: assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, lucyli"
+keywords: "Jekyll, liujie"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -89,7 +89,7 @@ keywords: "Jekyll, lucyli"
 rss:
 
 # Specify the date when the site was setup
-since: 20180204
+since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
@@ -120,9 +120,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  archives: /archives/
   categories: /categories/
   tags: /tags/
+  archives: /archives/
   about: /about/
   # sitemap: /sitemap.xml
   # commonweal: /404.html
@@ -154,8 +154,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Mist
-# scheme: Muse
+scheme: Muse
+# scheme: Mist
 #scheme: Pisces
 
 
@@ -221,8 +221,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  email: mailto:huayanglxx@126.com
-  GitHub: https://github.com/lucy201703
+  email: mailto:3385.jie@163.com
+  GitHub: https://github.com/jason2960
   豆瓣: 
 
 
@@ -269,8 +269,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: right
-  position: left
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -297,7 +297,10 @@ sidebar:
 links_title: Links
 links:
   阳志平: http://www.yangzhiping.com/
-  同人于野: http://www.geekonomics10000.com/
+  阿杰: http://www.liujie2018.com/
+  一亩田: http://blog.mashuangpsy.com/
+  素生: http://z.arlmy.me/
+  
 #links_title: Links
 #links_layout: block
 #links_layout: inline
@@ -322,7 +325,7 @@ excerpt_description: true
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: false
-  length: 150
+  length: 20
 
 # Post meta display settings
 post_meta:
@@ -404,7 +407,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: lucyli
+  shortname: liujie
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
