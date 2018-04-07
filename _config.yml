@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 星垂平野阔
-subtitle: 
-description: Pain is invevitable, suffering is optional.
+title: 小大鸟的世界
+subtitle: 星星记
+description: 感知生命的体验，看见更广阔的世界，看见更广阔的自己。
 author: 李星星
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'http://jason2960.github.io'
+url: 'http://lucy201703.github.io'
 baseurl:
 permalink: pretty
 
@@ -81,7 +81,7 @@ plugins:
 favicon: assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, liujie"
+keywords: "Jekyll, lucyli"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -221,9 +221,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  email: mailto:3385.jie@163.com
-  GitHub: https://github.com/jason2960
-  豆瓣: 
+  email: mailto:huayanglxx@126.com
+  GitHub: https://github.com/lucy201703
+  Wechat: yizi1321
 
 
 
