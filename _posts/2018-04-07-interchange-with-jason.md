@@ -2,7 +2,7 @@
 layout: post
 title: 交流，看见世界看见自己
 date: 2018-04-07
-categories: connection
+categories: growth
 tags: interchange
 
 ---
